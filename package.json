@@ -1,0 +1,16 @@
+{
+  "name": "world-map",
+  "version": "1.0.0",
+  "description": "A map of the world",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Hamza shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
